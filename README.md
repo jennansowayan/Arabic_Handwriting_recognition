@@ -3,7 +3,7 @@
   <img width="460" height="300" src="https://github.com/jennansowayan/Arabic_Handwriting_recognition/blob/main/logo/v2030.png?raw=true">
 </p>
 <p align="center">
-  <img width="460" height="150" src="https://github.com/jennansowayan/Arabic_Handwriting_recognition/blob/main/logo/mj.png?raw=true">
+  <img width="460" height="200" src="https://github.com/jennansowayan/Arabic_Handwriting_recognition/blob/main/logo/mj.png?raw=true">
 </p>
 
 The Kingdom's vision 2030 promotes digital transformation. The Ministry of Justice especially has the challenge of having an enormous archive of official handwritten documents like property deeds, marriage certificates, birth certificates. These documents need to be digitized and stored in a relational database to solve deteriorated documents, fade-out ink, and ease of accessibility and prevent loss or forgery of documents.
