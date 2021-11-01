@@ -1,3 +1,6 @@
 [submodule "datasets"]
-	path = datasets
-	url = https://git.uwaterloo.ca/aaljmiai/datasets.git
+	path = datasets/ahdd1
+	url = https://git.uwaterloo.ca/aaljmiai/ahdd1.git
+        
+        path = datasets/Hijja2
+        url = https://github.com/israksu/Hijja2.git
