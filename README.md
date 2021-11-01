@@ -1,4 +1,7 @@
 
+![Vision 2030](https://github.com/jennansowayan/Arabic_Handwriting_recognition/blob/main/logo/v2030.png?raw=true)
+![Saudi Arabian Ministry of Justice](https://github.com/jennansowayan/Arabic_Handwriting_recognition/blob/main/logo/mj.png?raw=true)
+
 The Kingdom's vision 2030 promotes digital transformation. The Ministry of Justice especially has the challenge of having an enormous archive of official handwritten documents like property deeds, marriage certificates, birth certificates. These documents need to be digitized and stored in a relational database to solve deteriorated documents, fade-out ink, and ease of accessibility and prevent loss or forgery of documents.
 Questions:
 -  Is image processing possible ?
