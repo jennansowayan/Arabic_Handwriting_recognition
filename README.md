@@ -17,5 +17,5 @@ ofthelettere.g.‘ـذ،ذ’doable ?
 
 # Cloning Repo
 ```console
-aaljmiai@MacBook-Pro:~$ git clone --recurse-submodules https://github.com/jennansowayan/Arabic_Handwriting_recognition.git
+aaljmiai@Husky-01:~$ git clone --recurse-submodules https://github.com/jennansowayan/Arabic_Handwriting_recognition.git
 ```
